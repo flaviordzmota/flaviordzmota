@@ -27,10 +27,10 @@
   
   
   <div>
-  <img align="center" alt="Flavio-vba" height="30" width="30" src="https://styles.redditmedia.com/t5_2rnlw/styles/communityIcon_z3kwah4z27c71.png">
-  <img align="center" alt="Flavio-excel" height="30" width="30" src="https://cdn.icon-icons.com/icons2/195/PNG/256/Excel_2013_23480.png">
-  <img align="center" alt="Flavio-office365" height="30" width="30" src="https://www.nersc.no/sites/www.nersc.no/files/images/office365-427x427.png">
-  <img align="center" alt="Flavio-powerbi" height="30" width="30" src="https://e7.pngegg.com/pngimages/820/213/png-clipart-power-bi-business-intelligence-microsoft-corporation-data-visualization-data-analysis-power-bi-dashboard-templates-thumbnail.png">
+  <img align="center" alt="Flavio-vba" height="40" width="40" src="https://styles.redditmedia.com/t5_2rnlw/styles/communityIcon_z3kwah4z27c71.png">
+  <img align="center" alt="Flavio-excel" height="35" width="40" src="https://cdn.icon-icons.com/icons2/195/PNG/256/Excel_2013_23480.png">
+  <img align="center" alt="Flavio-office365" height="40" width="40" src="https://www.nersc.no/sites/www.nersc.no/files/images/office365-427x427.png">
+  <img align="center" alt="Flavio-powerbi" height="35" width="40" src="https://e7.pngegg.com/pngimages/820/213/png-clipart-power-bi-business-intelligence-microsoft-corporation-data-visualization-data-analysis-power-bi-dashboard-templates-thumbnail.png">
   </div>
   
   
