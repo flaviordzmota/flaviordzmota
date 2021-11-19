@@ -8,8 +8,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviordzmota&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
+  
   ##
 
+  
  <div style="display: inline_block"><br>
   <img align="center" alt="Flavio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Flavio-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
@@ -17,11 +19,22 @@
   <img align="center" alt="Flavio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Flavio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Flavio-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Flavio-vba" height="35" width="35" src="https://styles.redditmedia.com/t5_2rnlw/styles/communityIcon_z3kwah4z27c71.png">
-  <img align="center" alt="Flavio-excel" height="35" width="35" src="https://cdn.icon-icons.com/icons2/195/PNG/256/Excel_2013_23480.png">
 </div>
   
+  
   ##
+  
+  
+  <div>
+  <img align="center" alt="Flavio-vba" height="35" width="35" src="https://styles.redditmedia.com/t5_2rnlw/styles/communityIcon_z3kwah4z27c71.png">
+  <img align="center" alt="Flavio-excel" height="35" width="35" src="https://cdn.icon-icons.com/icons2/195/PNG/256/Excel_2013_23480.png">
+  <img align="center" alt="Flavio-office365" height="35" width="35" src="https://www.nersc.no/sites/www.nersc.no/files/images/office365-427x427.png">
+  <img align="center" alt="Flavio-powerbi" height="35" width="35" src="https://e7.pngegg.com/pngimages/820/213/png-clipart-power-bi-business-intelligence-microsoft-corporation-data-visualization-data-analysis-power-bi-dashboard-templates-thumbnail.png">
+  </div>
+  
+  
+  ##
+  
   
   <div>
     <div> 
