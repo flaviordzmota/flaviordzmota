@@ -1,8 +1,8 @@
 ### Oi, Eu sou Flávio Rodrigues 👋
 
 - 🖥️ Trabalho como SysAdmin de Tecnologia Educacional
-- Sou Graduando em DataScience
-- 📔 Estou estudando Desenvolvimento Back-End
+- 👨🏽‍🎓 Sou Graduando em Data Science
+- 📔 Estou estudando Desenvolvimento Back-End (Java, .NET, Python)
 
 <div align="center">
   <a href="https://github.com/flaviordzmota">
