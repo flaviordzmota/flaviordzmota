@@ -45,7 +45,7 @@
   <a href="https://wa.me/5583987089534" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>     
   <a href = "mailto:rodriguezz.fr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fl%C3%A1vio-rodrigues-a5986882/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://github.com/flaviordzmota" target="_blank"><img height="30" width="60" src="https://assets-global.website-files.com/5fec9210c1841a6c20c6ce81/5fec9210c1841abd3ec6d286_githubLogo.png" target="_blank"></a> 
+  <a href="https://github.com/flaviordzmota" target="_blank"><img height="30" width="60" src="https://www.kindpng.com/picc/m/141-1419051_github-icon-png-transparent-png.png" target="_blank"></a> 
  
   ![Snake animation](https://github.com/flaviordzmota/flaviordzmota/blob/output/github-contribution-grid-snake.svg)
  
