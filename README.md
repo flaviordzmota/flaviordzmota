@@ -42,9 +42,9 @@
     <div> 
  
   <a href="https://instagram.com/flaviordzmota" target="_blank"><img height="30" width="40"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1025px-Instagram-Icon.png" target="_blank"></a>
-  <a href="https://wa.me/5583987089534" target="_blank"><img height="30" width="40"  src="https://www.dsmeletro.com/wp-content/uploads/2020/04/whatsapp-icon-transparent-png-6.pnge" target="_blank"></a>     
+  <a href="https://wa.me/5583987089534" target="_blank"><img height="30" width="40"  src="https://logodownload.org/wp-content/uploads/2015/04/whatsapp-logo-1.png" target="_blank"></a>     
   <a href = "mailto:rodriguezz.fr@gmail.com"><img height="30" width="40"  src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fl%C3%A1vio-rodrigues-a5986882/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/fl%C3%A1vio-rodrigues-a5986882/" target="_blank"><img height="30" width="40" src="https://www.pngall.com/wp-content/uploads/2016/07/Linkedin-Download-PNG.png" target="_blank"></a> 
   <a href="https://github.com/flaviordzmota" target="_blank"><img height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-128/github-170-1175028.png" target="_blank"></a> 
  
   ![Snake animation](https://github.com/flaviordzmota/flaviordzmota/blob/output/github-contribution-grid-snake.svg)
