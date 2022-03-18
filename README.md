@@ -41,7 +41,7 @@
   <div>
     <div> 
  
-  <a href="https://instagram.com/flaviordzmota" target="_blank"><img height="30" width="40"  src="https://www.egadvogados.com.br/advogado-ipsemg/wp-content/uploads/2019/03/4-41427_instagram-png-icon-instagram-logo-transparent.jpg" target="_blank"></a>
+  <a href="https://instagram.com/flaviordzmota" target="_blank"><img height="30" width="40"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" target="_blank"></a>
   <a href="https://wa.me/5583987089534" target="_blank"><img height="30" width="40"  src="https://logodownload.org/wp-content/uploads/2015/04/whatsapp-logo-1.png" target="_blank"></a>     
   <a href = "mailto:rodriguezz.fr@gmail.com"><img height="30" width="40"  src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fl%C3%A1vio-rodrigues-a5986882/" target="_blank"><img height="30" width="40" src="https://www.pngall.com/wp-content/uploads/2016/07/Linkedin-Download-PNG.png" target="_blank"></a> 
