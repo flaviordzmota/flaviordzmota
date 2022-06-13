@@ -46,9 +46,7 @@
   <a href = "mailto:rodriguezz.fr@gmail.com"><img height="30" width="30"  src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fl%C3%A1vio-rodrigues-a5986882/" target="_blank"><img height="30" width="30" src="https://www.pngall.com/wp-content/uploads/2016/07/Linkedin-Download-PNG.png" target="_blank"></a> 
   <a href="https://github.com/flaviordzmota" target="_blank"><img height="30" width="30" src="https://mpng.subpng.com/20180326/gxq/kisspng-github-computer-icons-icon-design-github-5ab8a31e334e73.4114704215220498222102.jpg" target="_blank"></a> 
-     
-  <a href="https://www.youtube.com/c/EscolaSesiPB" target="_blank"><img height="30" width="30" src="https://th.bing.com/th/id/R.cacb235a0965de98c6bd362a21b70854?rik=LHhNP9myxreJ1g&riu=http%3a%2f%2fmdsbaseballbats.com%2fpub%2fstatic%2fversion1606566312%2ffrontend%2fMDS%2fbase%2fen_US%2fimages%2fyoutube-icon.svg&ehk=x8DLwSO3wOFT3ewgd3x6qp1keGj3%2b52G472OVWMBep8%3d&risl=&pid=ImgRaw&r=0" target="_blank"></a> 
-
+   <a href="https://www.youtube.com/c/EscolaSesiPB" target="_blank"><img height="30" width="30" src="https://th.bing.com/th/id/R.cacb235a0965de98c6bd362a21b70854?rik=LHhNP9myxreJ1g&riu=http%3a%2f%2fmdsbaseballbats.com%2fpub%2fstatic%2fversion1606566312%2ffrontend%2fMDS%2fbase%2fen_US%2fimages%2fyoutube-icon.svg&ehk=x8DLwSO3wOFT3ewgd3x6qp1keGj3%2b52G472OVWMBep8%3d&risl=&pid=ImgRaw&r=0" target="_blank"></a> 
   <a href="https://www.facebook.com/escolasesipb" target="_blank"><img height="30" width="30" src="https://th.bing.com/th/id/R.a8632824f1faea5e53a399315fb28d41?rik=fPZV7CCNebc81Q&riu=http%3a%2f%2fwww.freelogovectors.net%2fwp-content%2fuploads%2f2020%2f03%2ffacebook-logo-new-2019.png&ehk=jyxlwy64BT9jInj5h61NbWMg9QE1oYkoSx3x75cINU0%3d&risl=&pid=ImgRaw&r=0" target="_blank"></a> 
  
   ![Snake animation](https://github.com/flaviordzmota/flaviordzmota/blob/output/github-contribution-grid-snake.svg)
