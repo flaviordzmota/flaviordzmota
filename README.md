@@ -44,7 +44,7 @@
   <a href="https://wa.me/5583987089534" target="_blank"><img height="30" width="30"  src="https://logodownload.org/wp-content/uploads/2015/04/whatsapp-logo-1.png" target="_blank"></a>
    <a href = "mailto:rodriguezz.fr@gmail.com"><img height="30" width="30"  src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fl%C3%A1vio-rodrigues-a5986882/" target="_blank"><img height="30" width="30" src="https://www.pngall.com/wp-content/uploads/2016/07/Linkedin-Download-PNG.png" target="_blank"></a> 
-  <a href="https://github.com/flaviordzmota" target="_blank"><img height="30" width="30" src="https://mpng.subpng.com/20180326/gxq/kisspng-github-computer-icons-icon-design-github-5ab8a31e334e73.4114704215220498222102.jpg" target="_blank"></a> 
+  <a href="https://github.com/flaviordzmota" target="_blank"><img height="30" width="30" src="[https://mpng.subpng.com/20180326/gxq/kisspng-github-computer-icons-icon-design-github-5ab8a31e334e73.4114704215220498222102.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Fbr%2Ficone-gratis%2Flogotipo-do-github_25231&psig=AOvVaw2PpIp_wDw5GpEQW42-ywhd&ust=1745674745149000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIiz1aun84wDFQAAAAAdAAAAABAE)" target="_blank"></a> 
   ![Snake animation](https://github.com/flaviordzmota/flaviordzmota/blob/output/github-contribution-grid-snake.svg)
  
 </div>
