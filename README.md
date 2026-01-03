@@ -4,9 +4,8 @@
 - 👨🏽‍🎓 Sou Graduado em Data Science
   
   
-  # Principais Tecnologias #
+# Principais Tecnologias #
 
-  
 <div style="display: inline_block"><br>
   <img align="center" alt="Flavio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Flavio-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
@@ -17,8 +16,7 @@
 </div>
   
   
-  # Ferramentas Microsoft #
-  
+# Ferramentas Microsoft #
   
 <div>
   <img align="center" alt="Flavio-vba" height="40" width="40" src="https://styles.redditmedia.com/t5_2rnlw/styles/communityIcon_z3kwah4z27c71.png">
@@ -28,17 +26,16 @@
 </div>
   
   
-  # Contatos #
-  
+# Contatos #
   
   <div>
     <div> 
 
   <a href="https://wa.me/5583987089534" target="_blank"><img height="30" width="30"  src="https://logodownload.org/wp-content/uploads/2015/04/whatsapp-logo-1.png" target="_blank"></a>
-   <a href = "mailto:rodriguezz.fr@gmail.com"><img height="30" width="30"  src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" target="_blank"></a>
+  <a href = "mailto:rodriguezz.fr@gmail.com"><img height="30" width="30"  src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fl%C3%A1vio-rodrigues-a5986882/" target="_blank"><img height="30" width="30" src="https://www.pngall.com/wp-content/uploads/2016/07/Linkedin-Download-PNG.png" target="_blank"></a> 
   <a href="https://github.com/flaviordzmota" target="_blank"><img height="30" width="30" src="https://camo.githubusercontent.com/285c02f902be30b9fca74a05d71d8fbd45658be33c5b99fb340ff8f78b3d1e51/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667" target="_blank"></a> 
   ![Snake animation](https://github.com/flaviordzmota/flaviordzmota/blob/output/github-contribution-grid-snake.svg)
  
-</div>
   </div>
+</div>
