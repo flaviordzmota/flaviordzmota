@@ -4,10 +4,10 @@
 - 👨🏽‍🎓 Sou Graduado em Data Science
   
   
-  ##
+  # Principais Tecnologias #
 
   
- <div style="display: inline_block"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="Flavio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Flavio-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="Flavio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -17,18 +17,18 @@
 </div>
   
   
-  ##
+  # Ferramentas Microsoft #
   
   
-  <div>
+<div>
   <img align="center" alt="Flavio-vba" height="40" width="40" src="https://styles.redditmedia.com/t5_2rnlw/styles/communityIcon_z3kwah4z27c71.png">
   <img align="center" alt="Flavio-excel" height="35" width="40" src="https://cdn.icon-icons.com/icons2/195/PNG/256/Excel_2013_23480.png">
   <img align="center" alt="Flavio-office365" height="40" width="40" src="https://faopharmacy.unc.edu/wp-content/uploads/sites/200/2017/05/office365-icon.png">
   <img align="center" alt="Flavio-powerbi" height="35" width="40" src="https://e7.pngegg.com/pngimages/820/213/png-clipart-power-bi-business-intelligence-microsoft-corporation-data-visualization-data-analysis-power-bi-dashboard-templates-thumbnail.png">
-  </div>
+</div>
   
   
-  ##
+  # Contatos #
   
   
   <div>
