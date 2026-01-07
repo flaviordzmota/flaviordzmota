@@ -20,22 +20,22 @@
 # Ferramentas Microsoft #
   
 <div>
-  <img align="center" alt="Flavio-Azure" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png">
-  <img align="center" alt="Flavio-SQL" height="35" width="40" src="https://www.clipartmax.com/png/middle/243-2432711_azure-sql-database-icon.png">
-  <img align="center" alt="Flavio-Windows" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/906/906308.png">
-  <img align="center" alt="Flavio-vba" height="40" width="40" src="https://styles.redditmedia.com/t5_2rnlw/styles/communityIcon_z3kwah4z27c71.png">
-  <img align="center" alt="Flavio-excel" height="35" width="40" src="https://cdn.icon-icons.com/icons2/195/PNG/256/Excel_2013_23480.png">
-  <img align="center" alt="Flavio-office365" height="40" width="40" src="https://faopharmacy.unc.edu/wp-content/uploads/sites/200/2017/05/office365-icon.png">
-  <img align="center" alt="Flavio-powerbi" height="35" width="40" src="https://e7.pngegg.com/pngimages/820/213/png-clipart-power-bi-business-intelligence-microsoft-corporation-data-visualization-data-analysis-power-bi-dashboard-templates-thumbnail.png">
+  <img align="center" alt="Flavio-Azure" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png">
+  <img align="center" alt="Flavio-SQL" height="30" width="40" src="https://www.clipartmax.com/png/middle/243-2432711_azure-sql-database-icon.png">
+  <img align="center" alt="Flavio-Windows" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/906/906308.png">
+  <img align="center" alt="Flavio-vba" height="30" width="40" src="https://styles.redditmedia.com/t5_2rnlw/styles/communityIcon_z3kwah4z27c71.png">
+  <img align="center" alt="Flavio-excel" height="30" width="40" src="https://cdn.icon-icons.com/icons2/195/PNG/256/Excel_2013_23480.png">
+  <img align="center" alt="Flavio-office365" height="30" width="40" src="https://faopharmacy.unc.edu/wp-content/uploads/sites/200/2017/05/office365-icon.png">
+  <img align="center" alt="Flavio-powerbi" height="30" width="40" src="https://e7.pngegg.com/pngimages/820/213/png-clipart-power-bi-business-intelligence-microsoft-corporation-data-visualization-data-analysis-power-bi-dashboard-templates-thumbnail.png">
 </div>
 
 # Ferramentas Google #
   
 <div>
-  <img align="center" alt="Flavio-Sheet" height="40" width="40" src="https://images.icon-icons.com/3053/PNG/512/google_sheets_macos_bigsur_icon_190111.png">
-  <img align="center" alt="Flavio-Forms" height="35" width="40" src="https://cdn-icons-png.flaticon.com/512/2913/2913988.png">
-  <img align="center" alt="Flavio-Looker" height="40" width="40" src="https://img.icons8.com/color/1200/google-looker.jpg">
-  <img align="center" alt="Flavio-AppSheet" height="40" width="40" src="https://img.icons8.com/color/1200/google-appsheet.jpg">
+  <img align="center" alt="Flavio-Sheet" height="30" width="40" src="https://images.icon-icons.com/3053/PNG/512/google_sheets_macos_bigsur_icon_190111.png">
+  <img align="center" alt="Flavio-Forms" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/2913/2913988.png">
+  <img align="center" alt="Flavio-Looker" height="30" width="40" src="https://img.icons8.com/color/1200/google-looker.jpg">
+  <img align="center" alt="Flavio-AppSheet" height="30" width="40" src="https://img.icons8.com/color/1200/google-appsheet.jpg">
 </div>
   
 # Contatos #
