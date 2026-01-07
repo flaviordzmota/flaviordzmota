@@ -20,6 +20,9 @@
 # Ferramentas Microsoft #
   
 <div>
+  <img align="center" alt="Flavio-Azure" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png">
+  <img align="center" alt="Flavio-excel" height="35" width="40" src="https://cdn.icon-icons.com/icons2/195/PNG/256/Excel_2013_23480.png">
+  <img align="center" alt="Flavio-office365" height="40" width="40" src="https://faopharmacy.unc.edu/wp-content/uploads/sites/200/2017/05/office365-icon.png">
   <img align="center" alt="Flavio-vba" height="40" width="40" src="https://styles.redditmedia.com/t5_2rnlw/styles/communityIcon_z3kwah4z27c71.png">
   <img align="center" alt="Flavio-excel" height="35" width="40" src="https://cdn.icon-icons.com/icons2/195/PNG/256/Excel_2013_23480.png">
   <img align="center" alt="Flavio-office365" height="40" width="40" src="https://faopharmacy.unc.edu/wp-content/uploads/sites/200/2017/05/office365-icon.png">
