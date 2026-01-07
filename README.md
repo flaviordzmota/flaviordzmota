@@ -1,7 +1,8 @@
-### Oi, Eu sou Flávio Rodrigues 👋
+###Oi, eu sou Flávio Rodrigues 👋
 
-- 🖥️ Trabalho como SysAdmin de Tecnologia Educacional
-- 👨🏽‍🎓 Sou Graduado em Data Science
+🖥️ Atuo como SysAdmin em Tecnologia Educacional, com foco em automação, dados e segurança
+👨🏽‍🎓 Graduado em Data Science
+🎓 Pós-graduado em Gestão de TI, Cybercrime, Cibersegurança e Perícia Forense em Informática
   
   
 # Principais Tecnologias #
